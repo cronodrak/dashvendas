@@ -1,4 +1,4 @@
-package com.myproj.dashvendas;
+package com.cronodrak.dashvendas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
